@@ -13,6 +13,10 @@
     "whatwg",
     "worker"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MattiasBuelens/remote-web-streams.git"
+  },
   "author": "Mattias Buelens",
   "license": "MIT",
   "files": [
